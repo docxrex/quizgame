@@ -9,7 +9,7 @@
 body{
     min-height: 100vh;
     overflow: hidden;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('/docxrex.github.io/quizgame/J4o.gif');
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('/J4o.gif');
     background-size: cover; 
     background-position: center;
 }
